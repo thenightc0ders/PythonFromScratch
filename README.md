@@ -13,7 +13,7 @@
 
 ## Introduction to Python
 - [ ] What is Python and why learn it?
-- [ ] Setting up your development environment (using user-friendly options like Repl.it or Google Colab).
+- [ ] Setting up your development environment Repl.it, VSCode, Pycharm
 - [ ] Writing your first Python program (a simple print statement or basic calculation).
 <br><br>
 
