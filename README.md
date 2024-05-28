@@ -103,7 +103,7 @@
         suraj@linuxhost:/myprojectfolder$
          ```
 
-## [Introduction to Python](https://github.com/thenightc0ders/PythonFromScratch/tree/635b10a2c860dfae0bbcc838594ff71f1b953c5f)
+## [Introduction to Python](https://github.com/thenightc0ders/PythonFromScratch/commit/fdbe6aca4c357e785ed0ab88546a56f1fe7dfb47)
 - [x] What is Python and why learn it?
   - Python is a high-level, interpreted programming language known for its readability and simplicity, making it ideal for beginners and experienced developers alike. It is widely used in various fields such as web development, data analysis, artificial intelligence, scientific computing, and automation due to its extensive libraries and supportive community. Learning Python can enhance your problem-solving skills, open up diverse career opportunities, and enable you to build versatile and powerful applications efficiently.
 - [x] Setting up your development environment Repl.it, VSCode, Pycharm
