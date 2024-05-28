@@ -39,6 +39,7 @@
     - https://www.jetbrains.com/pycharm/nextversion/
   - Installation Steps
     - _Windows_
+      - Execute downloaded exe file.
     - _Linux_
       ```sh
       suraj@linuxhost:/$ sudo tar -xvf pycharm-professional-242.10180.30.tar.gz
