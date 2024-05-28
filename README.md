@@ -89,7 +89,7 @@
       - Creation:
          ```sh
           suraj@linuxhost:/myprojectfolder$ python3 -m venv myvirtualenv
-      
+          suraj@linuxhost:/myprojectfolder$ virtualenv myvirtualenv
          ```
       - Activation:
          ```sh
@@ -104,7 +104,9 @@
 
 ## Introduction to Python
 - [ ] What is Python and why learn it?
+  - Python is a high-level, interpreted programming language known for its readability and simplicity, making it ideal for beginners and experienced developers alike. It is widely used in various fields such as web development, data analysis, artificial intelligence, scientific computing, and automation due to its extensive libraries and supportive community. Learning Python can enhance your problem-solving skills, open up diverse career opportunities, and enable you to build versatile and powerful applications efficiently.
 - [ ] Setting up your development environment Repl.it, VSCode, Pycharm
+  - We have seen in the last section how to setup vscode and pycharm, here we will take a look at replt.it.
 - [ ] Writing your first Python program (a simple print statement or basic calculation).
 <br>
 
