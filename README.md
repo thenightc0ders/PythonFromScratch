@@ -3,12 +3,70 @@
 <br>
 
 ## Environment Setup
-- [ ] Python Installation Windows
-- [ ] Python Installation Linux
+- [ ] **Python Installation Windows**
+  - Download Python Installer
+    - https://www.python.org/downloads/windows/
+  - Validate Python Installation
+       ```sh
+      C:\>python
+       ```
+- [ ] **Python Installation Linux**
+  - CLI (Command Line Interface) Installation
+       ```sh
+      suraj@linuxhost:/$ sudo apt install python3
+       ```
+  - Validate Python Installation
+       ```sh
+      suraj@linuxhost:/$ python3
+      Python 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
+      Type "help", "copyright", "credits" or "license" for more information.
+      >>>
+       ```
 - [ ] VS Code Setup
 - [ ] Pycharm Setup
-- [ ] Virtual Env Setup
-
+- [ ] **Virtual Env Setup**
+  - ***Windows:*** 
+    - Installation:
+        ```sh
+      C:\>pip install vitrualenv
+        ```
+    - Creation:
+      ```sh
+      C:\myprojectfolder>virtualenv myvirtualenv
+      ```
+    - Activation:
+        ```sh
+      C:\myprojectfolder>cd myvirtualenv
+      C:\myprojectfolder\myvirtualenv>cd scripts
+      C:\myprojectfolder\myvirtualenv\scripts>activate.bat
+      (myvirtualenv) C:\myprojectfolder\myvirtualenv\scripts>
+        ```
+    - Deactivation:
+        ```sh
+        (myvirtualenv) C:\myprojectfolder\myvirtualenv\scripts>deactivate.bat
+        C:\myprojectfolder\myvirtualenv\scripts>
+        ```
+  - ***Linux***
+    - Installation:
+        ```sh
+        $ sudo apt install python3-virtualenv
+        $ sudo pip3 install virtualenv
+        ```
+    - Creation:
+       ```sh
+        suraj@linuxhost:/myprojectfolder$ python3 -m venv myvirtualenv
+      
+       ```
+    - Activation:
+       ```sh
+      suraj@linuxhost:/myprojectfolder$ source myvirtualenv/bin/activate
+      (myvirtualenv) suraj@linuxhost:/media$ source myvirtualenv/bin/activate
+       ```
+    - Deactivation:
+       ```shell
+      (myvirtualenv) suraj@linuxhost:/myprojectfolder$ deactivate
+      suraj@linuxhost:/myprojectfolder$
+       ```
 <br>
 
 ## Introduction to Python
