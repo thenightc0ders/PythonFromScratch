@@ -2,8 +2,9 @@
 <p>Welcome to our Python from Scratch course, designed to guide you through the fundamentals of Python programming. Whether you're a complete beginner or looking to refresh your skills, this course will provide you with the essential knowledge to start writing your own Python scripts and applications.</p>
 
 
-## Environment Setup
-- [ ] **Python Installation Windows**
+## [Environment Setup ](https://github.com/thenightc0ders/PythonFromScratch/tree/d12c12533296d4df1d520d1f1c3b33f7b036f08b)
+
+- [x] **Python Installation Windows**
   - Winget: https://winget.run/ (_Optional_)
   - Download Python Installer
     - https://www.python.org/downloads/windows/
@@ -12,7 +13,7 @@
        ```sh
       C:\>python
        ```
-- [ ] **Python Installation Linux**
+- [x] **Python Installation Linux**
   - Installation Steps
        ```sh
       suraj@linuxhost:/$ sudo apt install python3
@@ -24,7 +25,7 @@
       Type "help", "copyright", "credits" or "license" for more information.
       >>>
        ```
-- [ ] **VS Code Setup**
+- [x] **VS Code Setup**
   - _Windows_
     - https://code.visualstudio.com/Download
     - ```C:\>winget install -e --id Microsoft.VisualStudioCode```
@@ -34,7 +35,7 @@
         suraj@linuxhost:/$ sudo apt install snapd #(if snapd is not present by default)
         suraj@linuxhost:/$ sudo snap install code --classic
          ```
-- [ ] **Pycharm Setup**
+- [x] **Pycharm Setup**
   - Download (Pycharm Early Access Program)
     - https://www.jetbrains.com/pycharm/nextversion/
   - Installation Steps
@@ -57,7 +58,7 @@
       Categories=IDE;Development;
       ```
       <br>
-- [ ] **Virtual Env Setup**
+- [x] **Virtual Env Setup**
   - A Python virtual environment is an isolated workspace that allows you to manage dependencies and packages for different projects independently, without conflicts. It ensures that each project can have its own versions of libraries and tools, preventing compatibility issues across projects.<br><br>
     - ***Windows:*** 
       - Installation:
@@ -102,12 +103,12 @@
         suraj@linuxhost:/myprojectfolder$
          ```
 
-## Introduction to Python
-- [ ] What is Python and why learn it?
+## [Introduction to Python](https://github.com/thenightc0ders/PythonFromScratch/tree/635b10a2c860dfae0bbcc838594ff71f1b953c5f)
+- [x] What is Python and why learn it?
   - Python is a high-level, interpreted programming language known for its readability and simplicity, making it ideal for beginners and experienced developers alike. It is widely used in various fields such as web development, data analysis, artificial intelligence, scientific computing, and automation due to its extensive libraries and supportive community. Learning Python can enhance your problem-solving skills, open up diverse career opportunities, and enable you to build versatile and powerful applications efficiently.
-- [ ] Setting up your development environment Repl.it, VSCode, Pycharm
+- [x] Setting up your development environment Repl.it, VSCode, Pycharm
   - We have seen in the last section how to setup vscode and pycharm, here we will take a look at replt.it.
-- [ ] Writing your first Python program (a simple print statement or basic calculation).
+- [x] Writing your first Python program (a simple print statement or basic calculation).
 <br>
 
 ## Python Fundamentals
