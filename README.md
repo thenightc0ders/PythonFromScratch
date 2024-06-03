@@ -112,10 +112,10 @@
 <br>
 
 ## Python Fundamentals
-- [ ] Variables, data types (numbers, strings, booleans) and operators.
-- [ ] Control flow statements (if/else, loops).
-- [ ] Functions - defining and using functions.
-- [ ] Lists and Tuples - creating, accessing, and manipulating data.
+- [x] Variables, data types (numbers, strings, booleans) and operators.
+- [x] Control flow statements (if/else, loops).
+- [x] Functions - defining and using functions.
+- [ ] Lists, Tuples, Sets, Dictionaries - Creating, Accessing, and Manipulating data.
 <br>
 
 ## Intermediate Python
