@@ -115,7 +115,7 @@
 - [x] Variables, data types (numbers, strings, booleans) and operators.
 - [x] Control flow statements (if/else, loops).
 - [x] Functions - defining and using functions.
-- [ ] Lists, Tuples, Sets, Dictionaries - Creating, Accessing, and Manipulating data.
+- [x] Lists, Tuples, Sets, Dictionaries - Creating, Accessing, and Manipulating data.
 <br>
 
 ## Intermediate Python
